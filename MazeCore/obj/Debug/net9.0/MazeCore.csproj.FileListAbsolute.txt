@@ -1,0 +1,11 @@
+/Users/shohambenyosef/Desktop/Maze/MazeCore/obj/Debug/net9.0/MazeCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shohambenyosef/Desktop/Maze/MazeCore/obj/Debug/net9.0/MazeCore.AssemblyInfoInputs.cache
+/Users/shohambenyosef/Desktop/Maze/MazeCore/obj/Debug/net9.0/MazeCore.AssemblyInfo.cs
+/Users/shohambenyosef/Desktop/Maze/MazeCore/obj/Debug/net9.0/MazeCore.csproj.CoreCompileInputs.cache
+/Users/shohambenyosef/Desktop/Maze/MazeCore/bin/Debug/net9.0/MazeCore.deps.json
+/Users/shohambenyosef/Desktop/Maze/MazeCore/bin/Debug/net9.0/MazeCore.dll
+/Users/shohambenyosef/Desktop/Maze/MazeCore/bin/Debug/net9.0/MazeCore.pdb
+/Users/shohambenyosef/Desktop/Maze/MazeCore/obj/Debug/net9.0/MazeCore.dll
+/Users/shohambenyosef/Desktop/Maze/MazeCore/obj/Debug/net9.0/refint/MazeCore.dll
+/Users/shohambenyosef/Desktop/Maze/MazeCore/obj/Debug/net9.0/MazeCore.pdb
+/Users/shohambenyosef/Desktop/Maze/MazeCore/obj/Debug/net9.0/ref/MazeCore.dll

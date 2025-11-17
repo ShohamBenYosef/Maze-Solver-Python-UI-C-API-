@@ -1,0 +1,6 @@
+@MazeBackend_HostAddress = http://localhost:5131
+
+GET {{MazeBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
