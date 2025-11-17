@@ -6,9 +6,11 @@
 
 **Demos**
   Building:
+  
   ![2025-11-17-16 13 36-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c413bb7e-2d11-4f85-b331-95dc7cdcb012)
   
   Solving:
+  
   ![2025-11-17-16 17 54-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/08a42f38-4143-4cc8-8a25-cfccd4ff0049)
 
 
@@ -41,6 +43,7 @@
     │
     ├── MazeCore/          # C# shared logic
     │   ├── Models/
+    |   |-- Services/
     │   ├── Algorithms/
     │   └── MazeCore.csproj
     │
